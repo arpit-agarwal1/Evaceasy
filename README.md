@@ -61,4 +61,4 @@ The basic functions are divided into two distinct versions of the app. One for t
 
 
 #Additional notes
-The applications currently available only give basic information for preparedness and processes, while our application networks the people and the organisations, both before and after disater has struck.
+The applications currently available only give basic information for preparedness and processes, while our application networks the people and the organisations, both before and after disaster has struck.
