@@ -4,9 +4,11 @@ Name of the app: EvacEasy
 Name of participants: Ishaan Lagwankar, Arpit Agarwal, Nandakrishna
 
 #Abstract
+
 The application allows a seamless network between an evacuating organisation and an evacuee.
 
 #Functionality
+
 The core functionality of the app lies with the process of networking the evacuating organisation with people in need of emergency support in times of natural disasters.
 The basic functions are divided into two distinct versions of the app. One for the evacuator and one for the evacuee.
 
@@ -61,4 +63,5 @@ The basic functions are divided into two distinct versions of the app. One for t
 
 
 #Additional notes
+
 The applications currently available only give basic information for preparedness and processes, while our application networks the people and the organisations, both before and after disaster has struck.
